@@ -1,0 +1,11 @@
+.style{
+    color: blue;
+}
+
+.div-style{
+    height: 155px;
+    width: 800px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightcoral;
+}
